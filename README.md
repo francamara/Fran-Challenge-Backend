@@ -14,7 +14,7 @@ The documentation for the API routes can be found [here](https://documenter.getp
 
 Frotend can be found [here](https://github.com/)
 
-## Dependencies used
+## Dependencies
 
 - express (v4.17.1)
 - sequelize (v6.6.2)
