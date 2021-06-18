@@ -19,7 +19,8 @@ Frotend can be found [here](https://github.com/)
 - express (v4.17.1)
 - sequelize (v6.6.2)
 - nodemon (v 2.0.7) (Only for dev environment)
-- NodeJS (v14.16.0)
+
+NodeJS (v14.16.0 used in development) is also required
 
 ## How to start project
 
